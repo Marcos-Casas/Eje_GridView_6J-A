@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:casas/gridview_articulos.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(CoppelApp());
 } //Funcion Principal
 
-class MyApp extends StatelessWidget {
+class CoppelApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -16,4 +16,4 @@ class MyApp extends StatelessWidget {
         ),
         home: MyHomePage());
   }
-} //Clase MyApp, Widget sin estado
+} //Clase CoppelApp, Widget sin estado
