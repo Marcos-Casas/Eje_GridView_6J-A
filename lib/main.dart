@@ -37,6 +37,18 @@ class _MyHomePageState extends State<MyHomePage> {
     "assets/images/muebles.jpg",
     "assets/images/ropa.png",
     "assets/images/computadora.webp",
+    "assets/images/muebles.jpg",
+    "assets/images/ropa.png",
+    "assets/images/computadora.webp",
+    "assets/images/muebles.jpg",
+    "assets/images/ropa.png",
+    "assets/images/computadora.webp",
+    "assets/images/muebles.jpg",
+    "assets/images/ropa.png",
+    "assets/images/computadora.webp",
+    "assets/images/muebles.jpg",
+    "assets/images/ropa.png",
+    "assets/images/computadora.webp",
   ];
   @override
   Widget build(BuildContext context) {
