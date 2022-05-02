@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Aprendiendo GridView',
         theme: ThemeData(
-          primarySwatch: Colors.brown,
+          primarySwatch: Colors.blue,
         ),
         home: MyHomePage());
   }
